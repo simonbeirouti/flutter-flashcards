@@ -8,6 +8,7 @@ The visuals to the flashcard console program I created [in this repo!](https://g
 - [x] Dynamically link Questions on the quiz and questions page
     - [] Use a dialog box to edit and create questions
     - [] Add a button to delete a question
+    - [] Change state to flip card and see answer on back
 - [] Store total results in the score page
     - [] Track the performance of each question
         - [] Add a warm/cool color based on the amount of correct answers

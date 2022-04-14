@@ -5,7 +5,7 @@ The visuals to the flashcard console program I created [in this repo!](https://g
 ## ToDos
 - [x] Create the navigation
 - [x] Create widget for quiz and questions
-- [] Dynamically link Questions on the quiz and questions page
+- [x] Dynamically link Questions on the quiz and questions page
     - [] Use a dialog box to edit and create questions
     - [] Add a button to delete a question
 - [] Store total results in the score page

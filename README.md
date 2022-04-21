@@ -12,3 +12,9 @@ The visuals to the flashcard console program I created [in this repo!](https://g
 - [] Store total results in the score page
     - [] Track the performance of each question
         - [] Add a warm/cool color based on the amount of correct answers
+
+## Screenshots
+
+| Quiz page | Question page |
+| ----------- | ----------- |
+| ![Quiz page](./assets/README/quizPage.png) | ![Question page](./assets/README/questionPage.png) |

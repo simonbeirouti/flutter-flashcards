@@ -38,40 +38,6 @@ class QuizPage extends StatelessWidget {
         ),
       ),
     );
-
-    // SingleChildScrollView(
-    //   scrollDirection: Axis.horizontal,
-    //   child: Center(
-    //     child: Container(
-
-    //       child: Column(
-    //         mainAxisAlignment: MainAxisAlignment.start,
-    //         children: [
-    //           const SizedBox(height: 50),
-    //           const Text(
-    //             'Question [num]',
-    //             style: TextStyle(
-    //               fontSize: 30,
-    //               fontWeight: FontWeight.bold,
-    //             ),
-    //           ),
-    //           const SizedBox(height: 80),
-    //           Container(
-    //             padding: const EdgeInsets.only(right: 15, left: 15),
-    //             child: const Text(
-    //               'What is Flutter and what\'s it good for?',
-    //               style: TextStyle(
-    //                 fontSize: 20,
-    //                 fontWeight: FontWeight.bold,
-    //               ),
-    //             ),
-    //           ),
-    //           const SizedBox(height: 50),
-    //         ],
-    //       ),
-    //     ),
-    //   ),
-    // );
   }
 }
 
